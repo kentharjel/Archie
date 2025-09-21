@@ -238,3 +238,4 @@ const styles = StyleSheet.create({
   },
   modalBtnText: { color: "#fff", fontWeight: "bold", fontSize: 16 },
 });
+
